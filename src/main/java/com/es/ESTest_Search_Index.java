@@ -25,7 +25,7 @@ public class ESTest_Search_Index {
                 RestClient.builder(new HttpHost("localhost",9200,"http"))
         );
 
-        //创建索引
+        //搜索索引
         GetIndexRequest user = new GetIndexRequest("user"); //索引名必须是小写
         GetIndexResponse getIndexResponse = esClient.indices().get(user, RequestOptions.DEFAULT);
 
