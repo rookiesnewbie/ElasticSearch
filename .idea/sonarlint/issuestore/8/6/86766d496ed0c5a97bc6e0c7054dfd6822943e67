@@ -1,0 +1,16 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÁŸ®8½¸ß¼1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÓşÿÿÿÿ8¾¸ß¼1
+n
+java:S2095"QUse try-with-resources or close this "RestHighLevelClient" in a "finally" clause.(­ÁŸ®8Û¸ß¼1
+G	java:S106="+Replace this use of System.out by a logger.(Šü„ì8‡¹ß¼1
+G	java:S106>"+Replace this use of System.out by a logger.(Ê’Õ·8‡¹ß¼1
+L	java:S106?"+Replace this use of System.out by a logger.(¶áêÏøÿÿÿÿ8ˆ¹ß¼1
+G	java:S106@"+Replace this use of System.out by a logger.(â ³Á8ˆ¹ß¼1
+L	java:S106A"+Replace this use of System.out by a logger.(Ú¥¹‰üÿÿÿÿ8ˆ¹ß¼1
+L	java:S106F"+Replace this use of System.out by a logger.(İİåùÿÿÿÿ8– ß¼1
+L	java:S106J"+Replace this use of System.out by a logger.(Ÿ‡¢ıÿÿÿÿ8û ß¼1
+f
+java:S1128	"DRemove this unused import 'org.elasticsearch.common.unit.Fuzziness'.(äáæ­şÿÿÿÿ8‹¹ß¼1
+f
+java:S1128"DRemove this unused import 'org.elasticsearch.search.sort.SortOrder'.(Ííˆúÿÿÿÿ8‹¹ß¼1
