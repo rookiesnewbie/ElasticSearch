@@ -35,7 +35,7 @@ public class ESTest_Like_Doc {
         SearchSourceBuilder sourceBuilder = new SearchSourceBuilder();
 
         //模糊查询
-        sourceBuilder.query(QueryBuilders.fuzzyQuery("name","wangwu").fuzziness(Fuzziness.AUTO));
+        sourceBuilder.query(QueryBuilders.fuzzyQuery("name","wangwu").fuzziness(Fuzziness.ONE));
 
         //查询字段过滤
         String[] excludes = {};
