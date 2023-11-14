@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÏØüÿÿÿÿ8†›İ»¼1
+s
+java:S2095"QUse try-with-resources or close this "RestHighLevelClient" in a "finally" clause.(ê„Ôıÿÿÿÿ8“›İ»¼1
+G	java:S106)"+Replace this use of System.out by a logger.(õ¿Í‡8µ›İ»¼1
+Q
+java:S1128"/Remove this unused import 'com.es.domain.User'.(¼”ŒÊúÿÿÿÿ8¶›İ»¼1
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8¶›İ»¼1
+e
+java:S1128"HRemove this unused import 'org.elasticsearch.action.index.IndexRequest'.(‰ñ¹¤8·›İ»¼1
+k
+java:S1128"IRemove this unused import 'org.elasticsearch.action.index.IndexResponse'.(¯ñÍ¹ûÿÿÿÿ8·›İ»¼1

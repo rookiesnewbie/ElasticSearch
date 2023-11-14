@@ -1,0 +1,10 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌÖ”úÿÿÿÿ8ªøº¼1
+s
+java:S2095"QUse try-with-resources or close this "RestHighLevelClient" in a "finally" clause.(ê„Ôıÿÿÿÿ8úëıº¼1
+L	java:S106!"+Replace this use of System.out by a logger.(ê‡†§ÿÿÿÿÿ8Ùøº¼1
+j
+java:S1128
+"MRemove this unused import 'org.elasticsearch.client.indices.GetIndexRequest'.(éÎ½á8¬ìıº¼1
+k
+java:S1128"NRemove this unused import 'org.elasticsearch.client.indices.GetIndexResponse'.(šÂµê8­ìıº¼1
