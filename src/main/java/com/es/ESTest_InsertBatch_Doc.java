@@ -40,7 +40,13 @@ public class ESTest_InsertBatch_Doc {
                         "lisi","age",35));
         request.add(new
                 IndexRequest().index("user").id("1003").source(XContentType.JSON, "id","1003","sex","男","name",
-                "wangwu","age",40));
+                "wangwu1","age",40));
+        request.add(new
+                IndexRequest().index("user").id("1004").source(XContentType.JSON, "id","1004","sex","女","name",
+                "wangwu2","age",35));
+        request.add(new
+                IndexRequest().index("user").id("1005").source(XContentType.JSON, "id","1005","sex","女","name",
+                "wangwu3","age",45));
         //客户端发送请求，获取响应对象
         BulkResponse response = esClient.bulk(request, RequestOptions.DEFAULT);
 
